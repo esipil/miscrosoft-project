@@ -31,7 +31,7 @@ Budget Allocation Strategy - Allocate budgets strategically based on the observe
 Genres
 Genre Prioritization - Focus resources and efforts on genres that have consistently performed well in terms of total revenue, the genres in the top 50 genre categories. Direct more resources, both financial and creative to projects within these high revenue genres.
 
-Budget optimization Strategy - Given the strong correlation between budget and revenue in the top genres, consider allocating budgets strategically to projects with these genres to maximise returns.
+Budget optimization Strategy - Given the strong correlation between budget and revenue in the top genres, consider allocating budgets strategically to projects with these genres to maximise returns.  
 
 Risk Management - A near perfect relationship indicates a lower level of risk in budget allocation for these genres. It suggests well funded project in the top genres are likely to yield more positive returns.
 
