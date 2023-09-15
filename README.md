@@ -40,3 +40,4 @@ Popularity driven marketing - Invest in effective marketing strategies that enha
 
 Ratings
 Quality vs Commercial Appeal - While high IMdb ratings are important for prestige and reputation, recognize that ratings do not correlate with revenue. Diversify your movie portfolio to include high rated projects as well as commercially driven projects.
+
